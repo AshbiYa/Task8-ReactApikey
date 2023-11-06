@@ -1,0 +1,14 @@
+.home-page {
+  background-image: url("../assets/image.jpg");
+  background-color: rgb(126, 112, 171);
+
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-page button {
+  margin-top: 20px;
+}
